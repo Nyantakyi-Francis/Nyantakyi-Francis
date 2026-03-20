@@ -26,10 +26,10 @@ My work sits at the intersection of technology, data, and human development. Wit
 
 | Area | Description |
 |---|---|
-| 📊 Data Visualization & Analytics | Transforming complex data into meaningful, actionable insights |
-| 🌐 Full-Stack Web Development | Building scalable, user-focused web applications end to end |
-| 🎓 Educational Technology (EdTech) | Leveraging technology to improve learning outcomes |
-| 🌍 Technology for Social Impact | Developing solutions for underserved communities across Africa |
+|  Data Visualization & Analytics | Transforming complex data into meaningful, actionable insights |
+|  Full-Stack Web Development | Building scalable, user-focused web applications end to end |
+|  Educational Technology (EdTech) | Leveraging technology to improve learning outcomes |
+|  Technology for Social Impact | Developing solutions for underserved communities across Africa |
 
 ---
 
@@ -65,7 +65,7 @@ My work sits at the intersection of technology, data, and human development. Wit
 
 ## Selected Projects
 
-### 📐 Math Quiz Portal
+###  Math Quiz Portal
 > **EdTech · User Engagement · Learning Analytics**
 
 A scalable, interactive learning platform designed to support WASSCE candidates through adaptive quizzes, instant feedback, and performance tracking.
@@ -74,7 +74,7 @@ A scalable, interactive learning platform designed to support WASSCE candidates 
 
 ---
 
-### 🤝 Marvelous Touch Foundation Website
+###  Marvelous Touch Foundation Website
 > **Real-World Impact · Accessibility · NGO Tech**
 
 A fully responsive platform developed for a Ghana-based NGO, supporting advocacy, outreach, and visibility for marginalized girls and women.
@@ -83,7 +83,7 @@ A fully responsive platform developed for a Ghana-based NGO, supporting advocacy
 
 ---
 
-### 📊 Student Performance Analytics Dashboard
+###  Student Performance Analytics Dashboard
 > **Data Visualization · React · Learning Analytics**
 
 A modern student performance analytics dashboard built with React for managing and analyzing student results.
@@ -92,7 +92,7 @@ A modern student performance analytics dashboard built with React for managing a
 
 ---
 
-### 🌐 GeoSphere
+###  GeoSphere
 > **API Integration · System Design · Geography**
 
 A multi-API integrated web application providing location-based information, including news, facts, and geographic insights.
@@ -103,8 +103,8 @@ A multi-API integrated web application providing location-based information, inc
 
 ## Education
 
-🎓 **B.Sc. in Web & Computer Programming** — Brigham Young University–Idaho  
-🎓 **B.Ed.** — Mampong Technical College of Education, Ghana
+ **B.Sc. in Web & Computer Programming** — Brigham Young University–Idaho  
+ **B.Ed.** — Mampong Technical College of Education, Ghana
 
 ---
 
